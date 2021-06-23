@@ -1,0 +1,25 @@
+{
+    "Deadlines": [
+        {
+            "id": 0,
+            "name": "ДЕДЛАЙН",
+            "userId": 1324220572,
+            "description": "ААА",
+            "expDate": "15.06.2021",
+            "alarmTime": "02:24:00",
+            "lastNotificationDate": "15.06.2021"
+        }
+    ],
+    "Users": [
+        {
+            "id": 1324220572,
+            "name": "Mapyca None"
+        }
+    ],
+    "UsersFlags": {
+        "1324220572": {
+            "isAddingDeadline": false,
+            "choosingWhatToDelete": false
+        }
+    }
+}
