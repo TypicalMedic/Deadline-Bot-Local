@@ -1,0 +1,92 @@
+{
+    "Deadlines": [
+        {
+            "id": 0,
+            "name": "ДЕДЛАЙН",
+            "userId": 1324220572,
+            "description": "ААА",
+            "expDate": "15.06.2021",
+            "alarmTime": "02:24:00",
+            "lastNotificationDate": "15.06.2021"
+        },
+        {
+            "id": 4,
+            "name": "D",
+            "userId": 1324220572,
+            "description": "D",
+            "expDate": "11.11.2021",
+            "alarmTime": "14:55:00",
+            "lastNotificationDate": "28.06.2021"
+        },
+        {
+            "id": 7,
+            "name": "сдача психо",
+            "userId": 1095998201,
+            "description": "важный проект!! срочно!",
+            "expDate": "28.06.2021",
+            "alarmTime": "14:00:30",
+            "lastNotificationDate": "27.06.2021"
+        },
+        {
+            "id": 8,
+            "name": "Р",
+            "userId": 1182496060,
+            "description": "А",
+            "expDate": "29.06.2021",
+            "alarmTime": "00:10:00",
+            "lastNotificationDate": "30.06.2021"
+        }
+    ],
+    "Users": [
+        {
+            "id": 1324220572,
+            "name": "Mapyca None"
+        },
+        {
+            "id": 338131106,
+            "name": "Михаил Гладько"
+        },
+        {
+            "id": 1182496060,
+            "name": "Anastasiia None"
+        },
+        {
+            "id": 698378729,
+            "name": "Артемий Шутов"
+        },
+        {
+            "id": 1095998201,
+            "name": "Vlada Kolchanova"
+        },
+        {
+            "id": 522718653,
+            "name": "Nikita Popov"
+        }
+    ],
+    "UsersFlags": {
+        "1324220572": {
+            "isAddingDeadline": false,
+            "choosingWhatToDelete": false
+        },
+        "338131106": {
+            "isAddingDeadline": false,
+            "choosingWhatToDelete": false
+        },
+        "1182496060": {
+            "isAddingDeadline": true,
+            "choosingWhatToDelete": false
+        },
+        "698378729": {
+            "isAddingDeadline": true,
+            "choosingWhatToDelete": false
+        },
+        "1095998201": {
+            "isAddingDeadline": true,
+            "choosingWhatToDelete": false
+        },
+        "522718653": {
+            "isAddingDeadline": false,
+            "choosingWhatToDelete": false
+        }
+    }
+}

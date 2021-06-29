@@ -1,0 +1,139 @@
+Logs
+
+
+23.06.2021 20:22:43 user 1324220572 added deadline: ДЕДЛАЙН2
+
+23.06.2021 20:23:15 user 1324220572 deleted deadline: ДЕДЛАЙН2
+
+24.06.2021 13:30:17 user 338131106 is added. Name: Михаил Гладько
+
+24.06.2021 13:34:03 user 338131106 added deadline: Прога
+
+24.06.2021 13:35:17 user 338131106 deleted deadline: Прога
+
+26.06.2021 04:40:11 user 338131106 added deadline: Прога
+
+26.06.2021 04:41:28 user 338131106 deleted deadline: Прога
+
+26.06.2021 04:44:31 user 338131106 added deadline: Питон
+
+26.06.2021 04:45:00 user 338131106 deleted deadline: Питон
+
+26.06.2021 04:46:57 user 338131106 added deadline: Штото
+
+26.06.2021 04:47:24 user 338131106 deleted deadline: Штото
+
+26.06.2021 14:40:56 user 1182496060 is added. Name: Anastasiia None
+
+26.06.2021 14:46:07 user 1182496060 added deadline: Привет
+
+26.06.2021 14:52:14 user 1324220572 added deadline: D
+
+26.06.2021 14:53:57 user 1182496060 added deadline: Пгрт
+
+26.06.2021 14:53:59 user 1324220572 deleted deadline: D
+
+26.06.2021 14:54:22 user 1324220572 added deadline: D
+
+26.06.2021 14:55:40 user 1182496060 added deadline: Апо
+
+26.06.2021 22:17:37 user 338131106 added deadline: Прога
+
+26.06.2021 22:21:00 user 338131106 added deadline: Прога
+
+26.06.2021 22:24:47 user 338131106 added deadline: Прога
+
+26.06.2021 22:27:51 user 338131106 added deadline: Питон
+
+26.06.2021 22:29:59 user 338131106 added deadline: Новый
+
+26.06.2021 22:35:41 user 338131106 added deadline: Лол
+
+26.06.2021 22:41:21 user 338131106 deleted deadline: Новый
+
+26.06.2021 22:41:30 user 338131106 deleted deadline: Лол
+
+26.06.2021 22:42:42 user 338131106 added deadline: Херня
+
+26.06.2021 22:43:00 user 338131106 deleted deadline: Херня
+
+26.06.2021 22:46:13 user 698378729 is added. Name: Артемий Шутов
+
+26.06.2021 22:47:25 user 1095998201 is added. Name: Vlada Kolchanova
+
+26.06.2021 22:48:09 user 698378729 added deadline: Плаксин
+
+26.06.2021 22:48:54 user 698378729 deleted deadline: Плаксин
+
+26.06.2021 22:48:54 user 1182496060 added deadline: Арол1
+
+26.06.2021 22:49:03 user 1182496060 deleted deadline: Привет
+
+26.06.2021 22:49:13 user 1182496060 deleted deadline: Пгрт
+
+26.06.2021 22:52:17 user 1095998201 added deadline: сдача психо
+
+26.06.2021 22:52:56 user 1182496060 deleted deadline: Апо
+
+26.06.2021 22:53:05 user 1182496060 deleted deadline: Арол1
+
+26.06.2021 22:58:14 user 1182496060 added deadline: Поьир
+
+26.06.2021 22:58:45 user 698378729 added deadline: Плаксин
+
+26.06.2021 23:02:52 user 1182496060 added deadline: Привет
+
+27.06.2021 14:04:28 user 522718653 is added. Name: Nikita Popov
+
+27.06.2021 17:09:54 user 338131106 added deadline: Проверка
+
+27.06.2021 17:11:24 user 338131106 deleted deadline: Проверка
+
+27.06.2021 17:12:56 user 338131106 added deadline: Дедик
+
+27.06.2021 17:13:06 user 338131106 deleted deadline: Дедик
+
+27.06.2021 17:19:11 user 338131106 added deadline: Хлын
+
+27.06.2021 17:19:50 user 1182496060 added deadline: Атгата
+
+27.06.2021 17:20:03 user 1182496060 deleted deadline: Привет
+
+27.06.2021 17:21:07 user 338131106 added deadline: Нарисовать
+
+27.06.2021 17:21:21 user 338131106 deleted deadline: Нарисовать
+
+27.06.2021 23:16:27 user 338131106 added deadline: Смэрть
+
+27.06.2021 23:16:38 user 338131106 deleted deadline: Смэрть
+
+27.06.2021 23:25:21 user 338131106 added deadline: Плаксин
+
+27.06.2021 23:27:20 user 698378729 deleted deadline: Плаксин
+
+27.06.2021 23:32:41 user 338131106 deleted deadline: Плаксин
+
+28.06.2021 17:56:09 user 338131106 added deadline: Проект1
+
+28.06.2021 17:57:41 user 338131106 added deadline: Проект2
+
+28.06.2021 17:58:22 user 338131106 deleted deadline: Проект1
+
+28.06.2021 17:58:36 user 338131106 deleted deadline: Проект2
+
+28.06.2021 18:21:56 user 338131106 added deadline: АЗА
+
+28.06.2021 18:24:32 user 338131106 deleted deadline: АЗА
+
+28.06.2021 23:49:57 user 1182496060 added deadline: Проект 1
+
+28.06.2021 23:54:07 user 1182496060 added deadline: А
+
+28.06.2021 23:57:31 user 1182496060 deleted deadline: А
+
+28.06.2021 23:57:42 user 1182496060 deleted deadline: Атгата
+
+28.06.2021 23:57:50 user 1182496060 deleted deadline: Проект 1
+
+29.06.2021 00:05:31 user 1182496060 added deadline: Р
+
